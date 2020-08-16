@@ -4,14 +4,6 @@ author: "Ehsan Karim: ehsank.com"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 always_allow_html: yes
 output:
-  word_document:
-    toc: yes
-  pdf_document:
-    fig_caption: yes
-    latex_engine: xelatex
-    number_sections: yes
-    toc: yes
-    toc_depth: 3
   html_document:
     fig_caption: yes
     keep_md: yes
@@ -23,6 +15,14 @@ output:
       smooth_scroll: true
     theme: lumen
     highlight: textmate
+  pdf_document:
+    fig_caption: yes
+    latex_engine: xelatex
+    number_sections: yes
+    toc: yes
+    toc_depth: 3
+  word_document:
+    toc: yes
   slidy_presentation:
     toc: yes  
 ---
