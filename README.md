@@ -4,7 +4,7 @@ from [Ehsan Karim](https://ehsank.com/)
 
 Conversion formulas from Odds Ratio (OR) to Risk Ratio (RR) or Risk Difference (RR)
 
-- [link for the formulas and a data example](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/OR2RR2RD/master/convert.html)
+- [link for the R formulas and a data example](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/OR2RR2RD/master/convert.html)
 
 # References
 
