@@ -1,7 +1,7 @@
 ---
 title: "Conversion from OR to RR or RD"
 author: "Ehsan Karim: ehsank.com"
-date: "15 August 2020"
+date: "19 August 2020"
 always_allow_html: yes
 output:
   html_document:
